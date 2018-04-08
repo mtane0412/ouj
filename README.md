@@ -1,6 +1,12 @@
 # 放送大学授業ノート置き場
 
 ## 2018年前期
+### Todo
+- [x] 教科書電子化
+- [ ] Web通信指導
+- [ ] 単位認定試験
+
+### Notes
 | 科目 | シラバス | 授業配信 |
 |:---:|:---:|:---:|
 | [認知心理学](1528904認知心理学/認知心理学.md) | [URL](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528904.html) | [URL](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=124) |
