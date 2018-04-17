@@ -1,9 +1,8 @@
-# 放送大学授業ノート置き場
-
-## Overview
+# Overview
+放送大学授業進捗管理&ノート置き場
 http://www.ouj.ac.jp/
 
-## Notes
+# Notes
 | 学期 | 科目 | ノート | 授業配信 | 教科書電子化 | Web通信指導 | 単位認定試験 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2018-1 | [認知心理学](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528904.html) | [認知心理学.md](1528904認知心理学/認知心理学.md) | [テレビ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=124) | ✔︎ | - | - |
