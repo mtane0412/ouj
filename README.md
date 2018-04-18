@@ -13,3 +13,9 @@ http://www.ouj.ac.jp/
 | 2017-2 | [心理臨床の基礎](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528980.html) | - | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=133s) | - | ✔︎ | A+ |
 | 2017-2 | [心理カウンセリング序説](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1529056.html) | - | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=134) | - | ✔︎ | A+ |
 | 2017-2 | [社会心理学](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528955.html) | - | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=130) | - | ✔︎ | A+ |
+
+# Schooling
+| 学期 | 科目 | 学習センター | ノート | 評定 |
+|:---:|:---:|:---:|:---:|:---:|
+| 2018-1 | [認知心理学](http://forests.ouj.ac.jp/ouj-f301/dt-28640.html) | 宮城 | - | - |
+| 2018-1 | [時間の哲学](http://forests.ouj.ac.jp/ouj-f301/dt-28605.html) | 宮城 | - | - |
