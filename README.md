@@ -7,7 +7,7 @@ http://www.ouj.ac.jp/
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2018-1 | [認知心理学（’１３） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528904.html) | [4/15](1528904-cognitive-psychology/cognitive-psychology.md) | [テレビ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=124) | ✔︎ | - | - |
 | 2018-1 | [	比較認知科学（’１７） 	](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1529188.html) | [4/15](1529188-comparative-cognition/comparative-cognition.md) | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=128) | ✔︎ | - | - |
-| 2018-1 | [認知行動療法（’１４） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528963.html) | [3/15](1528963-cognitive-behavioral-therapy/cognitive-behavioral-therapy.md) | [テレビ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=136) | ✔︎ | - | - |
+| 2018-1 | [認知行動療法（’１４） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528963.html) | [3/15](1528963-cognitive-behavioral-therapies/cognitive-behavioral-therapies.md) | [テレビ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=136) | ✔︎ | - | - |
 | 2018-1 | [精神分析とユング心理学（’１７） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1529226.html) | [3/15](1529226-psychoanalysis-and-jung-psychology/psychoanalysis-and-jung-psychology.md) | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=135) | ✔︎ | - | - |
 | 2017-2 | [錯覚の科学（’１４） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528939.html) | - | [テレビ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=123) | - | ✔︎ | A+ |
 | 2017-2 | [心理臨床の基礎（’１４） ](https://www.ouj.ac.jp/hp/kamoku/H30/kyouyou/C/sinri/1528980.html) | - | [ラジオ](https://vod.ouj.ac.jp/view/ouj/#/navi/vod?ca=133s) | - | ✔︎ | A+ |
