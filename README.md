@@ -20,5 +20,5 @@
 # Schooling
 | 学期 | 科目 | 学習センター | ノート | 評定 |
 |:---:|:---:|:---:|:---:|:---:|
-| 2018-1 | [認知心理学](http://forests.ouj.ac.jp/ouj-f301/dt-28640.html) | 宮城 | [8/8](2489856-coginitive-psychology/cognitive-psychology.md) | - |
+| 2018-1 | [認知心理学](http://forests.ouj.ac.jp/ouj-f301/dt-28640.html) | 宮城 | [8/8](2489856-cognitive-psychology/cognitive-psychology.md) | - |
 | 2018-1 | [時間の哲学](http://forests.ouj.ac.jp/ouj-f301/dt-28605.html) | 宮城 | - | - |
